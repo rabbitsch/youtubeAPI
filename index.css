@@ -1,0 +1,60 @@
+
+*{
+  box-sizing: border-box;
+  font-weight: bold;
+  color: black
+}
+body{
+  color: blue;
+  text-align: center;
+  background-color: grey;
+  
+}
+
+h1{
+  
+  border-style: solid;
+  border-color: black;
+  border-radius: 25px;
+  background: silver
+  
+}
+
+h2{
+  color:blue;
+  border-style: solid;
+  border-radius: 25px;
+  border-color: black;
+  background: silver
+  
+
+}
+
+form{
+  border-style: solid;
+  border-radius: 25px;
+  
+}
+
+button{
+ background-color: lightcyan;
+ height: 50px;
+ width: 100px;
+ border: 2px;
+ padding: 15px;
+ border-radius: 15%;
+ box-shadow: 5px 5px 5px blue
+
+}
+button:hover{
+  background: darkblue;
+}
+
+input{
+  height: 30px;
+  width: 300px;
+}
+
+ul{
+  list-style-type: none;
+}
